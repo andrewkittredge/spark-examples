@@ -7,7 +7,9 @@ authors = [
     { name = "Andrew Kittredge", email = "andrewlkittredge@gmail.com" }
 ]
 requires-python = ">=3.14"
-dependencies = []
+dependencies = [
+    "requests>=2.34.2",
+]
 
 [build-system]
 requires = ["uv_build>=0.9.22,<0.10.0"]
