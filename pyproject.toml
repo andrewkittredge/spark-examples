@@ -3,10 +3,10 @@ name = "spark-examples"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.14"
+requires-python = ">=3.11.14"
 dependencies = []
 
 [tool.uv.workspace]
 members = [
-    "library-for-spark",
+    "library_for_spark",
 ]
