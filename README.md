@@ -4,3 +4,4 @@ Demonstrates building and deploying a Python to use with PySpark PyConnect on AW
 
 2. Copy  `serverless_demo.ipynb` to the EMR Studio Workspace.  Replace the `{S3_bucket}` in the conf json with your S3 bucket.
 
+To submit `serverless_demo_job.py` directly to EMR Serverless, run `start_serverless_demo_job.ps1` or `start_serverless_demo_job.sh` in the `spark` directory. 
