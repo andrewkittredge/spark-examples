@@ -11,4 +11,4 @@ https://spark.apache.org/docs/latest/api/python/tutorial/python_packaging.html
 
 ## Use the package with in a submitted job
 
-Run `start_serverless_demo_job.ps1` or `start_serverless_demo_job.sh` in the `spark` directory. 
+Run `submit_job.ps1` or `submit_job.sh` in the `spark` directory. 
